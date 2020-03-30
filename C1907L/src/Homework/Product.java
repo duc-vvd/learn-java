@@ -1,15 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Homework;
 import java.util.Scanner;
 import java.util.ArrayList;
-/**
- *
- * @author ADMIN
- */
+// Bai 3:
 public class Product {
     String maHH, tenHH;
     float soLuong, gia1SP;
